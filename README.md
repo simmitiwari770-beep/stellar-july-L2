@@ -44,8 +44,8 @@ GlobalGrant is a full-stack Web3 application that demonstrates:
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/simmitiwari770-beep/steller-level2.git
-cd steller-level2
+git clone https://github.com/simmitiwari770-beep/stellar-july-L2.git
+cd stellar-july-L2
 npm install
 ```
 
@@ -81,7 +81,7 @@ This will generate a new keypair, fund it via Friendbot, upload the WASM, create
 ## 📁 Folder Structure
 
 ```
-steller-level2/
+stellar-july-L2/
 ├── contracts/
 │   └── crowdfunding/          # Soroban smart contract (Rust)
 │       ├── Cargo.toml
@@ -137,7 +137,6 @@ steller-level2/
 ### 1. Wallet Options Available
 *Multi-wallet support: Freighter, Albedo, Rabet, Hana Wallet, and LOBSTR via Stellar Wallets Kit.*
 <img width="1440" height="900" alt="Screenshot 2026-04-03 at 1 07 10 PM" src="https://github.com/user-attachments/assets/719b4e27-0a25-4b8e-b28f-3027c2cc0ef7" />
-tions.png)
 
 
 ### 2. Wallet Connected & Balance
